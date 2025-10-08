@@ -32,3 +32,5 @@ Mantainers:
 * Chiara Martina
 * Pietro Tisci
 * Romolo David d'Alessandro
+
+![Demo GIF](https://drive.google.com/uc?export=view&id=1t3QU0F75pKdBzjOnIHiQX926h8ZW6gga)
