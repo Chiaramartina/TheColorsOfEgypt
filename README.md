@@ -33,5 +33,5 @@ Mantainers:
 * Pietro Tisci
 * Romolo David d'Alessandro
 
-Prototype of the Museo Civico Archeologico in Bologna --> [![Watch the video](https://img.icons8.com/color/96/000000/video.png)](https://drive.google.com/file/d/1t3QU0F75pKdBzjOnIHiQX926h8ZW6gga/view?usp=share_link)
+Augmented reality and interactive visualizations: [![Watch the video](https://img.icons8.com/color/96/000000/video.png)](https://drive.google.com/file/d/1t3QU0F75pKdBzjOnIHiQX926h8ZW6gga/view?usp=share_link)
 
